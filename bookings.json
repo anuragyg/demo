@@ -1,0 +1,10 @@
+{
+  "booking": [
+    { "id": 1, "name": "Post 1","email":"xyz@gmail.com","date":"20/04/2012","time":"21:30","numberOfPersons":"3" },
+    { "id": 1, "name": "Post 1","email":"oioio@yahoo.com","date":"27/08/2019","time":"11:30","numberOfPersons":"7" },
+    { "id": 1, "name": "Post 1","email":"gjkhd@rediff.com","date":"02/01/2014","time":"7:30","numberOfPersons":"5" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
